@@ -17,8 +17,7 @@ This game requires Python 3.x and the `Pillow` library for image handling.
 
 ### Prerequisites
 
-You need Python installed on your system. To install the necessary dependencies, run the following command:
-```bash
+You need Python installed on your system. To install the necessary dependencies, run the following command: ```bash
 pip install Pillow
 
 🛠️ Project Structure
